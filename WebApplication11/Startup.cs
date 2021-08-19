@@ -18,8 +18,6 @@ namespace WebApplication11
         {
             Configuration = configuration;
         }
-
-
         //test
         //test11
         public IConfiguration Configuration { get; }
