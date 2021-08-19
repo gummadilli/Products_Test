@@ -16,6 +16,8 @@ namespace WebApplication11
             CreateHostBuilder(args).Build().Run();
         }
 
+
+        //test2
         public static IHostBuilder CreateHostBuilder(string[] args) =>
             Host.CreateDefaultBuilder(args)
                 .ConfigureWebHostDefaults(webBuilder =>
